@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LunchPick</string>
+    <string name="ticket_filename">tickets.txt</string>
+    <string name="lunch_menu">점심메뉴</string>
+    <string name="next">다음</string>
+    <string name="retry">다시하기</string>
+    <string name="exit">나가기</string>
+</resources>
